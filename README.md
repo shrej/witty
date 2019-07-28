@@ -15,6 +15,6 @@ _Hey Witty, Can you create a new document called Picnic Invitations_
 
 ### Add to an existing quip document
 
-_Hey Witty, Can you create a new document called Picnic Invitations_
+_Hey Witty, Can you add 'bring cake' to the picnic document ?_
 
 ![Add to an existing quip document Demo](https://github.com/shrej/witty/blob/master/assets/create-new-quip-document.gif?raw=true 'Add to an existing quip document Demo')
